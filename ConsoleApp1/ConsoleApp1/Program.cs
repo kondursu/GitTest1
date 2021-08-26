@@ -8,6 +8,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World!");
             //code was edited in Github
+            //code was added in VS
         }
     }
 }
